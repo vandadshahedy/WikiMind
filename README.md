@@ -62,6 +62,6 @@ dataset = Dataset.from_dict({"text": texts})
 
 ## Responsible AI Development
 - Teaching proper attribution is part of responsible AI development.
-- Verify facts against current Wikipedia.
-- Wikipedia citations change daily, so the output may vary at any given time.
-- Distributing copyrighted citations requires proper licensing.
+- Verify facts against current Wikipedia and/or any other trusted sources.
+- Wikipedia citations change daily, outputs may vary over time.
+- Distributing copyrighted content requires proper licensing.
